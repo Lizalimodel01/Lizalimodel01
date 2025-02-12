@@ -16,7 +16,5 @@ contact: <br>
 <l1> - [Discord](https://discord.com): `lynd_.`
  </l1>
 
-My github.io:
 
-[ link ](https://Lizalimodel01.github.io)
  
